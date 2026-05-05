@@ -1,0 +1,12 @@
+renv/
+
+.Rproj.user/
+
+data/
+results/
+logs/
+
+.Rhistory
+.Rdata
+.Rprofile
+.Rproj
