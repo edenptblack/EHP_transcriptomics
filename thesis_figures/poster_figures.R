@@ -15,8 +15,6 @@
 source('config.R')
 source('R/packages.R')
 
-library(ggrepel)
-
 main = function() {
 
   alpha    = config$alpha
